@@ -22,7 +22,7 @@ body {
 }
 
 .Travel-Guide p{
-    font-size: 30;
+    font-size: 30px;
     color: grey;
 }
 
@@ -30,4 +30,10 @@ body {
     font-weight: 300;
     font-size: 42px;
     color: white;
+}
+
+#copyright{
+    text-align: right;
+    color: grey;
+    font-size: 30px;
 }
