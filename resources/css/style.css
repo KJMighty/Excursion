@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Web-Title{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.download-link-1 {
+    color: aquamarine;
+    font-size: 16px;
+}
